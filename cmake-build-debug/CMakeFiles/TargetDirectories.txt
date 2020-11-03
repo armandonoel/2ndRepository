@@ -1,0 +1,3 @@
+C:/Users/arman/CLionProjects/Cadena_de_caracteres/cmake-build-debug/CMakeFiles/Cadena_de_Caracteres.dir
+C:/Users/arman/CLionProjects/Cadena_de_caracteres/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/arman/CLionProjects/Cadena_de_caracteres/cmake-build-debug/CMakeFiles/rebuild_cache.dir
